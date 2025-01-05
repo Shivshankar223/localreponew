@@ -1,2 +1,1 @@
-a=55*999
-print(a)
+print("hello world")
